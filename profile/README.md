@@ -5,7 +5,7 @@ Members:
 contact: __
 3) Sean Sam @ Singapore University of Technology and Design- Lead Mechanical Engineer
 contact: __
-4) Angie Avitra @ Singapore University of Technology and Design- Project Manager & Software Engineer
+4) Angie Avitra @ Singapore University of Technology and Design- Project Manager & Lead IOT Engineer
 contact: __
 5) Muhammad Asyraf Bin Omar @ Singapore University of Technology and Design, Lead Software Engineer, muhdasyrafbinomar@gmail.com
 6) Reiko @  - Lead Designer
