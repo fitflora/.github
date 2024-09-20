@@ -1,4 +1,4 @@
-# Project for Tsinghua University "Design Futures Shared Vision" Summer Programme 2024 - Attained 1st Place
+# Project for Tsinghua University "Design Futures Shared Vision" Summer Programme 2024 - 1st Place
 
 ### PROJECT THEME
 FitFlora aims to help Beijing achieve food safety and security by cultivating horticultural and vertical farming practices, utilizing public spaces like parks across the state, and integrating advanced technologies from IoT to material science. 
